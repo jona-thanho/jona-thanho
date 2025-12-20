@@ -8,7 +8,7 @@ CS @ UCSD (June 2026) · Seeking full-time SWE roles
 - 800+ daily paying users
 - Real-time odds from 30+ sportsbooks
 - Python/Sanic backend, JavaScript/HTML/CSS frontend
-- *Private repo — access on request*
+- *Private production repo — access on request*
 
 ### Tech
 
