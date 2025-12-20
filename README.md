@@ -1,16 +1,19 @@
-## Hi there 👋
+## Jonathan Ho
 
-<!--
-**jona-thanho/jona-thanho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS @ UCSD (June 2026) · Seeking full-time SWE roles
 
-Here are some ideas to get you started:
+### What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Bettor Odds](https://bettorodds.co/)** — Sports betting aggregation platform
+- 800+ daily paying users
+- Real-time odds from 30+ sportsbooks
+- Python/Sanic backend, JavaScript/HTML/CSS frontend
+- *Private repo — access on request*
+
+### Tech
+
+`Python` `JavaScript` `Sanic` `HTML/CSS` `Git`
+
+### Contact
+
+[LinkedIn](https://linkedin.com/in/jonatuanho) · [Email](mailto:jona.tuan.h@gmail.com)
