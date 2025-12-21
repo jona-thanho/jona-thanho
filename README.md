@@ -5,7 +5,7 @@ CS @ UCSD (June 2026) · Seeking full-time SWE roles
 ### What I'm Working On
 
 **[Bettor Odds](https://bettorodds.co/)** — Sports betting aggregation platform
-- 800+ daily paying users
+- 1300+ daily paying users
 - Real-time odds from 30+ sportsbooks
 - Python/Sanic backend, JavaScript/HTML/CSS frontend
 - *Private production repo — access on request*
