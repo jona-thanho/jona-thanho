@@ -1,6 +1,6 @@
 ## Jonathan Ho
 
-CS @ UCSD (June 2026) · Seeking full-time SWE roles
+Seeking full-time SWE roles!
 
 ### What I'm Working On
 
