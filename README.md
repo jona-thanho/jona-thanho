@@ -8,7 +8,7 @@ Seeking full-time SWE roles!
 - 1300+ daily paying users
 - Real-time odds from 30+ sportsbooks
 - Python/Sanic backend, JavaScript/HTML/CSS frontend
-- *Private production repo — access on request*
+- *Private landing page & webapp production repos — access on request*
 
 ### Tech
 
