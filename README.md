@@ -10,7 +10,7 @@ Seeking full-time SWE roles!
 - Python/Sanic (similar to FastAPI) backend, JavaScript/HTML/CSS frontend
 - *Private landing page & webapp production repos — access on request*
 
-### Tech
+### Current Tech
 
 `Python` `JavaScript` `Sanic` `Redis` `PostgreSQL` `Docker` `HTML/CSS` `Git`
 
