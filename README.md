@@ -6,7 +6,7 @@ Seeking full-time SWE roles!
 
 **[Bettor Odds](https://bettorodds.co/)** — Sports betting aggregation platform
 - 1300+ daily paying users
-- Real-time odds from 30+ sportsbooks
+- Real-time odds from 30+ sportsbooks and 250+ markets
 - Python/Sanic (similar to FastAPI) backend, JavaScript/HTML/CSS frontend
 - *Private landing page & webapp production repos — access on request*
 
