@@ -1,18 +1,18 @@
 ## Jonathan Ho
 
-Seeking full-time SWE roles!
+Seeking full-time SWE roles post graduation!
 
 ### What I'm Working On
 
 **[Bettor Odds](https://bettorodds.co/)** — Sports betting aggregation platform
 - 1300+ daily paying users
 - Real-time odds from 30+ sportsbooks and 250+ markets
-- Python/Sanic (similar to FastAPI) backend, JavaScript/HTML/CSS frontend
+- Python/Sanic backend, JavaScript/HTML/CSS frontend
 - *Private landing page & webapp production repos — access on request*
 
 ### Current Tech
 
-`Python` `JavaScript` `Sanic` `Jinja2` `Redis` `PostgreSQL` `Docker` `HTML/CSS` `Git`
+`Python` `Sanic (similar to FastAPI)` `Jinja2 (Django-style templating)` `JavaScript` `HTML/CSS` `Redis` `PostgreSQL` `Docker` `Git`
 
 ### Contact
 
