@@ -12,7 +12,7 @@ Seeking full-time SWE roles!
 
 ### Current Tech
 
-`Python` `JavaScript` `Sanic` `Redis` `PostgreSQL` `Docker` `HTML/CSS` `Git`
+`Python` `JavaScript` `Sanic` `Jinja2` `Redis` `PostgreSQL` `Docker` `HTML/CSS` `Git`
 
 ### Contact
 
