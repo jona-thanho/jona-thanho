@@ -2,7 +2,7 @@
 
 Seeking full-time SWE roles post graduation!
 
-### What I'm Working On
+### What I Previously Worked On
 
 **[Bettor Odds](https://bettorodds.co/)** — Sports betting aggregation platform
 - 1300+ daily paying users
