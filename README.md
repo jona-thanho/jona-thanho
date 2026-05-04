@@ -1,7 +1,5 @@
 ## Jonathan Ho
 
-Seeking full-time SWE roles post graduation!
-
 ### What I Previously Worked On
 
 **[Bettor Odds](https://bettorodds.co/)** — Sports betting aggregation platform
